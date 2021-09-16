@@ -2,7 +2,7 @@
 
 Sample flutter app for getting started with the Amplify Flutter Library.  This example uses the Auth, Analytics, and Storage components of the Flutter library. 
 
-Please check out our docs here:
+Please check out docs here:
 https://docs.amplify.aws/start/q/integration/flutter
 
 ## Getting Started
